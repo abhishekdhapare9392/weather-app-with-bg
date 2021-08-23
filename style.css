@@ -1,0 +1,9 @@
+.card {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+@media screen and (max-width: 600px) {
+  #search-button {
+    margin-top: 10px;
+  }
+}
